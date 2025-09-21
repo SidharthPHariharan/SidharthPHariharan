@@ -1,4 +1,4 @@
-# Hi, I'm Sidharth Hariharan 👋
+# Hi, I'm Sidharth P Hariharan 👋
 
 **Lead Software Engineer** passionate about building intelligent systems and rapid prototyping. I write code for fun and professionally, always exploring new ways to accelerate development from thought to barebones app.
 
@@ -10,7 +10,7 @@
 
 ## 🔥 Favorite Projects
 
-- [cordova-HTTP](https://github.com/SidharthPHariharan/cordova-HTTP): Robust HTTP plugin for Cordova apps, simplifying network requests and native integration.
+- [cordova-HTTP](https://github.com/SidharthPHariharan/cordova-HTTP): Forked a robust HTTP plugin for Cordova apps, simplifying network requests and native integration. This repo fixes a .
 - [LLMAssistedUse](https://github.com/SidharthPHariharan/LLMAssistedUse): Experiments in large language model-assisted workflows and rapid prototyping.
 
 ## ⚡️ About Me
